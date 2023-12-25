@@ -1,0 +1,83 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Rupesh ",
+      "lastName": "Dhamdhere",
+      "email": "rupesh@gmail.com ",
+      "mobile": "44352",
+      "Weight": 56,
+      "height": 56,
+      "bmi": 0.0015943877551020409,
+      "bmiResult": "underweight",
+      "gender": "Male",
+      "requiredTrainer": "yes",
+      "package": "Quarterly",
+      "important": [
+        "Energry and Endurence",
+        "Building lean Muscle",
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-12-22T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "hjhjs",
+      "lastName": "qdq",
+      "email": "rgrgj",
+      "mobile": "435",
+      "Weight": 70,
+      "height": 2,
+      "bmi": 0,
+      "bmiResult": "underweight",
+      "gender": "Female",
+      "requiredTrainer": "yes",
+      "package": "Monthly",
+      "important": [
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-12-20T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "jsdj",
+      "lastName": "aff",
+      "email": "asdd",
+      "mobile": "342",
+      "Weight": 45,
+      "height": 1.2,
+      "bmi": 0.6944444444444444,
+      "bmiResult": "underweight",
+      "gender": "Male",
+      "requiredTrainer": "yes",
+      "package": "Monthly",
+      "important": [
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-12-22T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "rupesh",
+      "lastName": "jjdhj",
+      "email": "dsadk",
+      "mobile": "3e314",
+      "Weight": 45,
+      "height": 531,
+      "bmi": 0.001886785761151365,
+      "bmiResult": "underweight",
+      "gender": "Female",
+      "requiredTrainer": "yes",
+      "package": "Quarterly",
+      "important": [
+        "Energry and Endurence",
+        "Building lean Muscle"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-12-27T18:30:00.000Z",
+      "id": 4
+    }
+  ]
+}
